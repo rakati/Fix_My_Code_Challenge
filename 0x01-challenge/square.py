@@ -2,7 +2,7 @@
 
 
 class square():
-
+    """ A class represent Square"""
     width = 0
     height = 0
 
